@@ -4,9 +4,9 @@
 
 Hi, I'm Matheus. Welcome to my profile.
 
-📖 I am currently studying the last year of Computer Science.
+📖 I graduated in computer science.
 
-💼 Today I work at Aquanima Brasil developing internal systems with Node.js, Java and SQL Server.
+💼 I work at Aquanima Brasil developing internal systems with Node.js, React and PostgreSQL.
 
 💻 I love to code and playing games.
 

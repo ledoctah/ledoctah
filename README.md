@@ -6,10 +6,10 @@ Hi, I'm Matheus. Welcome to my profile.
 
 📖 I graduated in computer science.
 
-💼 I work at Aquanima Brasil developing internal systems with Node.js, React and PostgreSQL.
+💼 I work at Capgemini developing Node.js software with BFF architecture.
 
 💻 I love to code and playing games.
 
-I love mobile and web technologies. I am currently learning React JS.
+I love mobile and web technologies. I am currently improving my React Native knowledge and English skills.
 
 If you want to reach me, let me know, it will be a pleasure.

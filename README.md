@@ -4,12 +4,12 @@
 
 Hi, I'm Matheus. Welcome to my profile.
 
-📖 I graduated in computer science.
+📖 I graduated in computer science and currently I am doing a MBA focused on Full Stack Development.
 
-💼 I work at Capgemini developing mobile applications using Typescript and Java.
+💼 I work at Banco Pan as a Tech Lead.
 
 💻 I love to code and playing games.
 
-I love mobile and web technologies. I am currently improving my english skills and starting to learn game development.
+I love mobile and web technologies. I am currently improving my english skills.
 
 If you want to reach me, let me know, it will be a pleasure.
